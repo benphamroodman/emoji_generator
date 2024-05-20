@@ -1,6 +1,6 @@
 # emoji_generator
 
-# requirements
+# Requirements
 ## To install pilmoji:
 1. conda create -n emojis python=3.8 pip jupyter
 2. conda activate emojis
