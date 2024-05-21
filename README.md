@@ -6,3 +6,4 @@
 2. conda activate emojis
 3. pip install pillow emoji==1.7.0 pilmoji
 4. pip install numpy pandas
+5. pip install torch torchvision torchaudio matplotlib
