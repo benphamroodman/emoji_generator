@@ -1,0 +1,3 @@
+sample_count:4724
+width:16
+height:16

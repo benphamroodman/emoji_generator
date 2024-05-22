@@ -1,3 +1,0 @@
-sample_count:4724
-width:463
-height:109
